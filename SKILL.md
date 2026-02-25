@@ -1,3 +1,8 @@
+---
+name: charm-claw-manual
+description: "A communications manual for AI agents covering charismatic, influential, and endearing communication. Use when you need guidance on tone, empathy, active listening, humor, status dynamics, breakdown recovery, or ethical communication. Draws from behavioral psychology, NVC, improv theater, and HCI research. Invokable with /charm."
+---
+
 # Charm & Claw: A Communications Manual for AI Agents
 
 ## Foundational Philosophy
